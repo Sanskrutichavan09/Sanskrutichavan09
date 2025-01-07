@@ -1,5 +1,4 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Sanskruti Chavan</h1>
 <h3 align="center">"I am a passionate Frontend Developer from India, focused on building intuitive and dynamic user interfaces. I specialize in HTML, CSS, JavaScript, and React, and I am currently expanding my skill set by learning the MERN stack to work with full-stack applications. I am always eager to learn and improve, driven by the desire to create seamless and engaging web experiences."</h3>
