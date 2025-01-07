@@ -1,5 +1,5 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://camo.githubusercontent.com/68f90d0a1b6fe59a2723105e4b6c669aeb3dbb2bcff290aedee3c82171fe9c1b/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4334453132415145724a7359617944757456672f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313635313833353036343236303f653d3231343734383336343726763d6265746126743d5044374e47776b32566833784f4139677866387555734c7341742d4276616b31486d3372756f4753787559)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Sanskruti Chavan</h1>
 <h3 align="center">"I am a passionate Frontend Developer from India, focused on building intuitive and dynamic user interfaces. I specialize in HTML, CSS, JavaScript, and React, and I am currently expanding my skill set by learning the MERN stack to work with full-stack applications. I am always eager to learn and improve, driven by the desire to create seamless and engaging web experiences."</h3>
@@ -40,4 +40,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskrutichavan09&show_icons=true&locale=en" alt="sanskrutichavan09" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskrutichavan09&" alt="sanskrutichavan09" /></p>
+
